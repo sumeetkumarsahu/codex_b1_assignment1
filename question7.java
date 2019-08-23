@@ -18,7 +18,7 @@ public class Question_7
 	case 2:System.out.println("Answer for subtraction is:"+(no1-no2));break;
 	case 3:System.out.println("Answer for multiplication is:"+(no1*no2));break;
 	case 4:System.out.println("Answer for division is:"+(no1/no2));break;
-	case 5:System.out.println("Answer for power is:"+(no1^no2));
+	case 5:System.out.println("Answer for power is:"+(no1^no2));break;
 	default:System.out.println("Entered Invalid operation");
 	
 	}
