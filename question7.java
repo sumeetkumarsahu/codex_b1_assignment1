@@ -9,7 +9,7 @@ public class Question_7
 	int no1= input.nextInt();
 	int no2= input.nextInt();
 	Scanner input2= new Scanner(System.in);
-	System.out.println("Enter the '1for+','2for-','3for*','4for/','3for^'");
+	System.out.println("Enter the '1for+','2for-','3for*','4for/','5for^'");
 	int operation= input.nextInt();
 	
 	switch(operation)
